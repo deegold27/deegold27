@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deegold27
-- 👀 I’m interested in solidity, react , blockchain and many more.
+- 👀 I’m interested in solidity, react , blockchain, cybersecurity and many more.
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
