@@ -6,6 +6,9 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/deegold27/Failed_RDP_GEO)
 - <b>Building-a-file-Integrity-monitor with Windows Powershell!</b>
   - [Windows Powershell: File Integrity Monitoring System with Hashing Algorithm](https://github.com/deegold27/Build-a-file-Integrity-monitor.git)
+ - <b>Vulnerability Management Lab with Nessus!</b>
+  - [Windows & Nessus: Vulnerability scanning and Vulnerability remediation](https://github.com/deegold27/VM.git)
+  
   
 
 
