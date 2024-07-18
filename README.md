@@ -15,7 +15,7 @@
  - <b>DEX Project with Web3 , React & Express Server!</b>
    - [Decentralized Exchange for tokens](https://github.com/deegold27/DEX)      
   - <b>Netflix Clone</b>
-   - [Netflix Clone for movies](https://github.com/deegold27/Netflix-)      
+    - [Netflix Clone for movies](https://github.com/deegold27/Netflix-)      
 
 <!--
 **Deegold27/Daudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
