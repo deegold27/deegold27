@@ -10,9 +10,11 @@
    - [Windows & Nessus: Vulnerability scanning and Vulnerability remediation](https://github.com/deegold27/VM.git)
   
   
+<h2>👨‍💻 Coding Projects:</h2>
 
-
-
+ - <b>DEX Project with Web3 , React & Express Server!</b>
+   - [Decentralized Exchange for tokens](https://github.com/deegold27/DEX)
+  
 
 <!--
 **Deegold27/Daudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
