@@ -14,7 +14,7 @@
 
  - <b>DEX Project with Web3 , React & Express Server!</b>
    - [Decentralized Exchange for tokens](https://github.com/deegold27/DEX)      
-  - <b>Netflix Clone</b>
+  - <b>Netflix Clone Full Stack</b>
     - [Netflix Clone for movies](https://github.com/deegold27/Netflix-)      
 
 <!--
